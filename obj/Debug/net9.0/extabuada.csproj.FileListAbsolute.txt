@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\bin\Debug\net9.0\extabuada.exe
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\bin\Debug\net9.0\extabuada.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\bin\Debug\net9.0\extabuada.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\bin\Debug\net9.0\extabuada.dll
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\bin\Debug\net9.0\extabuada.pdb
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\extabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\extabuada.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\extabuada.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\extabuada.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\extabuada.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\extabuada.dll
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\refint\extabuada.dll
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\extabuada.pdb
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\extabuada.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista5\extabuada\obj\Debug\net9.0\ref\extabuada.dll
